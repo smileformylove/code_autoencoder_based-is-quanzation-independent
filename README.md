@@ -7,7 +7,7 @@ I complete the whole training and testing system for the starting point to under
 ## usage
 
 ### create dataset
-first define the your own img_path in create_tfdata.py, and run the create_tfdata.py to get the *.tfrecords.
+first define the your own ```in_path``` in ```create_tfdata.py```, and run the ```create_tfdata.py``` to get the *.tfrecords.
 
 ### training
 ```
