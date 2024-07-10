@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## target
-I complete the whole training and testing system for the starting point to understand data pipeline , autoencoder and quantization. It explores the realation between rate-ditortion and quantization, which is import for learned. compression. 
+I complete the whole training and testing system for the starting point to understand data pipeline , autoencoder and quantization. It explores the realation between rate-ditortion and quantization, which is import for learned image compression. 
 
 ## usage
 
