@@ -1,4 +1,5 @@
 # code_autoencoder_based-is-quanzation-independent
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## target
 
